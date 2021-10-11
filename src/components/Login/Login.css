@@ -1,0 +1,15 @@
+.btn-1 {
+  background-color: goldenrod;
+  padding: 7px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.btn-2 {
+  background-color: rgb(218, 69, 32);
+  padding: 7px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.user {
+  font-size: 20px;
+}
